@@ -1,6 +1,6 @@
 # Simple Calculator Project
 
-This project includes a simple calculator application built using the Python programming language. It provides a user-friendly interface for performing basic arithmetic operations.
+This project includes a simple calculator application built using the C# programming language. It provides a user-friendly interface for performing basic arithmetic operations.
 
 ## Features
 
